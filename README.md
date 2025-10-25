@@ -45,6 +45,7 @@ Leaving Sunshine running unnecessarily exposes your system to potential attacks.
 
 - RAM usage may vary depending on screen resolution and must be **adjusted in the script**.  
 - Currently a quick & dirty implementation – functional but not fully modular or optimized.
+- GUI not very responsive (but just press ESC to exit the GUI AND terminate sunshine)
 
 ---
 
